@@ -1,0 +1,22 @@
+.txtbox{
+	width: 200px;
+	border: 1px solid #a7a4a4;
+    height: 30px;
+    border-radius: 2px;
+	padding: 6px;    
+}
+.t_value{
+	padding: 10px;
+}
+.inputSelect{
+    width: 39%;
+    margin-left: 8px;
+    margin-bottom: 10px;
+    max-width: none;
+    position: relative;
+    display: inline-block; 
+    max-width: 100%; 
+    height: 2.5rem; 
+    margin-bottom: 0; 
+    display: block; 	
+}
